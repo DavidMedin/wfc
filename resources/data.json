@@ -1,0 +1,67 @@
+{
+    "tiles" : [
+        {
+            "image" : "dot.png",
+            "name" : "dot",
+            "north" : "wire",
+            "west" : "board",
+            "south" : "board",
+            "east" : "board"
+        },
+
+        {
+            "image" : "hor-trace.png",
+            "name" : "hor-trace",
+            "north" : "board",
+            "west" : "wire",
+            "south" : "board",
+            "east" : "wire"
+        },
+
+        {
+            "image" : "trace.png",
+            "name" : "trace",
+            "north" : "wire",
+            "west" : "board",
+            "south" : "wire",
+            "east" : "board"
+        },
+
+
+        {
+            "image" : "bottom-left.png",
+            "name" : "bottom-left",
+            "north" : "board",
+            "west" : "board",
+            "south" : "wire",
+            "east" : "wire"
+        },
+
+        {
+            "image" : "bottom-right.png",
+            "name" : "bottom-right",
+            "north" : "board",
+            "west" : "wire",
+            "south" : "wire",
+            "east" : "board"
+        },
+        
+        {
+            "image" : "top-right.png",
+            "name" : "top-right",
+            "north" : "wire",
+            "west" : "board",
+            "south" : "board",
+            "east" : "wire"
+        },
+        
+        {
+            "image" : "top-left.png",
+            "name" : "top-left",
+            "north" : "wire",
+            "west" : "wire",
+            "south" : "board",
+            "east" : "board"
+        }
+    ]
+}
